@@ -10,5 +10,5 @@ export const publicRoutes = [
     { path: "/profile", element: Profile },
     { path: "/upload", element: Upload, layout: HeaderOnly },
 
-    // các route khác
+    // các route khác   
 ];

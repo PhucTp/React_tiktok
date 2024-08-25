@@ -1,4 +1,4 @@
 const Following = () => {
-    return <div>Following Page</div>;
+    return <h2>Following Page</h2>;
 };
 export default Following;
